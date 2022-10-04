@@ -42,6 +42,8 @@
         <a href="https://www.linkedin.com/in/romain-lavoisier-a166b1250/" target="_blank" class="linkedin"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.twitch.tv/captain_marty_" target="_blank" class="twitch"><i class="fab fa-twitch"></i></a>
         <a href="https://www.youtube.com/channel/UCkp0qEiQUS81bxl754Vwq4w" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a>
+        <a href="https://github.com/CaptainMarty" target="_blank" class="youtube"><i class="fab fa-github"></i></a>
+
       </div>
 
     </div>
