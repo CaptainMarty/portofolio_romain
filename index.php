@@ -58,11 +58,11 @@
       </div>
       <div class="row">
         <div class="col-lg-4" data-aos="fade-right">
-          <img src="photo_cv.png" alt="photo de moi" class="img-fluid">
+          <img src="moi1.png" alt="photo de moi" class="img-fluid">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>UI &  JS</h3>
-          <p class="fst-italic">J'ai appris ces langages pendant une session de formation durant 10 mois.
+          <p class="fst-italic">J'apprends actuellement ces langages en session de formation durant 10 mois.
           </p>
           <div class="row">
             <div class="col-lg-6">
